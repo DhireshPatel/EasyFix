@@ -15,7 +15,7 @@ export default function Navbar({
   return (
     <nav className="navbar">
       <div className="logo">
-        <span className="logo-icon"></span>Zfix
+        <span className="logo-icon"></span>X-Fix
       </div>
       <div className="flex gap-5">
         <div className={`nav-links ${showMenu ? "show" : ""}`}>
