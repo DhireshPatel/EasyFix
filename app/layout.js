@@ -12,9 +12,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "X-FIX",
+  title: "X-Fix",
   description: "Home Services Booking Platform",
-  applicationName: "ZFix",
+  applicationName: "X-Fix",
 };
 
 export default function RootLayout({ children }) {
